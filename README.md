@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashjain033&label=Profile%20views&color=0e75b6&style=flat" alt="yashjain033" />
+  <img src="https://komarev.com/ghpvc/?username=YASH36638&label=Profile%20views&color=0e75b6&style=flat" alt="YASH36638" />
 </p>
 
 ---
@@ -10,13 +10,13 @@
 ### 🌐 **Connect with me:**
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
+<a href="linkedin.com/in/yash-jain-246b9730b" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
-<a href="mailto:yourmail@gmail.com" target="blank">
+<a href="jainym@rknec.edu" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="40" width="40" />
 </a>
-<a href="https://github.com/yashjain033" target="blank">
+<a href="https://github.com/YASH36638" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
 </a>
 </p>
@@ -40,11 +40,11 @@
 ### 📊 **GitHub Stats:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YASH36638&show_icons=true&theme=tokyonight" alt="yashjain033" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YASH36638&show_icons=true&theme=tokyonight" alt="YASH36638" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASH36638&theme=tokyonight" alt="yashjain033" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASH36638&theme=tokyonight" alt="YASH36638" />
 </p>
 
 <p align="center">
