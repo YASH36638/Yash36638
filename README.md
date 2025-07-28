@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YASH36638&label=Profile%20views&color=0e75b6&style=flat" alt="YASH36638" />
+  <img src="https://komarev.com/ghpvc/?username=YASH36638&label=Profile%20views&color=0e75b6&style=flat" alt="YASH36638-temp" />
 </p>
 
 ---
