@@ -52,8 +52,8 @@
 ---
 
 ### 🚀 **About Me**
-- 🌱 I’m currently learning **React, Node.js, SQL**
-- 💬 Ask me about **JavaScript,DSA,Flask**
+- 🌱 I’m currently learning **Node.js, SQL**
+- 💬 Ask me about **React,JavaScript,DSA,Flask**
 - 📫 How to reach me: **jainym@rknec.edu**
 - ⚡ Fun fact: I love coding at night 🌙
 
